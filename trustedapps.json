@@ -5,6 +5,10 @@
       "identifier": "io.sidestore.example"
     },
     {
+      "identifier": "dev.colbster937.AltStore",
+      "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json"
+    },
+    {
       "identifier": "com.sidestoreapps.community",
       "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json"
     },
